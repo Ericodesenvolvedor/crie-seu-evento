@@ -1,6 +1,6 @@
 # Crie seu evento
 
-<img src=".github/preview-crie-seu-evento.jpg" alt="Pré-visualização do site Crie seu evento" />
+<img src=".github/preview-crie-seu-site.jpg" alt="Pré-visualização do site Crie seu evento" />
 
 > Formulários no html
 
